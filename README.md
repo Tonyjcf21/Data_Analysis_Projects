@@ -13,7 +13,8 @@ Here I'm going to upload the jupyter notebooks that I create while learning data
 Cars is a very simple **data analysis** and **machine learning** project.
  - carros_simple.ipynb contains the code.
  - car.data contain the data used to make the analysis.
+ 
 
 The rest are things I've found useful to learn and practice.
 
-**SalesAnalysis** is a project from Keith Galli https://www.youtube.com/c/KGMIT that I found very interesting.
+**SalesAnalysis** is a project from Keith Galli that I found very interesting.
