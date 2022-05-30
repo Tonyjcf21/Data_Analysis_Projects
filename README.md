@@ -1,4 +1,4 @@
-# Learning_Data_Science
+# Learning Data Science
 
 Here I'm going to upload the jupyter notebooks that I create while learning data science.
 
