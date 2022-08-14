@@ -1,4 +1,4 @@
-# Learning Data Science
+# Learning Data Analysis/Science
 
 Here I'm going to upload the jupyter notebooks that I create while learning data science.
 
@@ -16,5 +16,8 @@ Cars is a very simple **data analysis** and **machine learning** project.
  
 
 The rest are things I've found useful to learn and practice.
+
+**Deforestation** is a project from the Udacity's SQL course.
+ - Deforestation_Report.pdf is the report containing relevant information about the csv files, including the queries.
 
 **SalesAnalysis** is a project from Keith Galli that I found very interesting.
