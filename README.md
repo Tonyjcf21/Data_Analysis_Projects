@@ -21,3 +21,5 @@ The rest are things I've found useful to learn and practice.
  - Deforestation_Report.pdf is the report containing relevant information about the csv files, including the queries.
 
 **SalesAnalysis** is a project from Keith Galli that I found interesting.
+
+**NYSE Project** is a simple project on SpreadSheets using simple analysis and forecasting methods.
