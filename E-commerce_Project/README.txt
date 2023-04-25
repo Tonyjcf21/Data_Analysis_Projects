@@ -1,5 +1,3 @@
-Dear SellerX team,
-
 Every folder contains the required files for each task.
 
  - Excel:
