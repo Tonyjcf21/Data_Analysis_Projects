@@ -23,3 +23,7 @@ The rest are things I've found useful to learn and practice.
 **SalesAnalysis** is a project from Keith Galli that I found interesting.
 
 **NYSE Project** is a simple project on SpreadSheets using simple analysis and forecasting methods.
+
+**WeRateDogs** is a project where the twitter API is used to get tweets from the WeRateDogs account and then some data pre-processing.
+
+**E-commerce Project** is an assessment related to a PPC position for an E-commerce company.
